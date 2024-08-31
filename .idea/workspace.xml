@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
+    <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="716fc88f-0681-4230-a11e-b007b0d63d2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/klolarion/programmers/PG159994.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/klolarion/programmers/PG77884.java" afterDir="false" />
+    <list default="true" id="716fc88f-0681-4230-a11e-b007b0d63d2b" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/klolarion/programmers/PG120829.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/klolarion/programmers/PG120880.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/klolarion/programmers/PG12935.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/klolarion/programmers/PG135808.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/klolarion/programmers/PG160586.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/klolarion/programmers/PG181847.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/klolarion/programmers/PG181855.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/klolarion/programmers/PG181908.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/klolarion/programmers/PG181945.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/klolarion/programmers/PG42576.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +27,23 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Algorithm" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -37,8 +63,6 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/fonad/IdeaProjects/Algorithm&quot;,
@@ -47,10 +71,6 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.40114942&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -87,6 +107,8 @@
       <workItem from="1723882155921" duration="11502000" />
       <workItem from="1723908975411" duration="1780000" />
       <workItem from="1723973131316" duration="6149000" />
+      <workItem from="1724556305392" duration="7737000" />
+      <workItem from="1725062707972" duration="11728000" />
     </task>
     <servers />
   </component>
